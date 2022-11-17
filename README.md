@@ -14,6 +14,6 @@ Data de criação: 29.08.2022
 ### Link para baixar o código inicial da Parte 2:
 (https://github.com/viniciuswebdev/curso-php-phpunit)
 
-Acessar o diretório da parte_2 e instalar dependências:
-```./composer.phar install```
+Acessar o diretório da parte_2 e instalar dependências:\
+```./composer.phar install```\
 Não esquecer de adicionar o diretório parte_2/vendor no .gitignore
