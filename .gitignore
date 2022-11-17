@@ -3,3 +3,4 @@ composer.phar
 nbproject
 vendor
 udemy-testes-unitarios-e-tdd.kdev4
+tests/parte_2/vendor
